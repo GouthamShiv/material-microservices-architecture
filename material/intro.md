@@ -31,7 +31,7 @@
     1.  [Organized around business capabilities](./topics/03/03B/03B-business-capabilities.md)
     1.  [Products not projects](./topics/03/03C/03C-products-not-projects.md)
     1.  [Smart endpoints and dumb pipes](./topics/03/03D/03D-smart-endpoints-and-dump-pipes.md)
-    1.  Decentralized governance
+    1.  [Decentralized governance](./topics/03/03E/03E-decentralized-governance.md)
     1.  Decentralized data management
     1.  Infrastructure automation
     1.  Design for failure
