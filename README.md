@@ -8,4 +8,4 @@ Repo for capturing the learnings from this [Udemy course](https://www.udemy.com/
 
 > ## Quick Links
 
--   [Intro](intro.md)
+-   [Intro](material/intro.md)
