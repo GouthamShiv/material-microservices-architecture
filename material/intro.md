@@ -1,4 +1,4 @@
-# `Microservices Architecture`
+> # <mark>`Microservices Architecture`</mark>
 
 # Introduction
 
@@ -22,9 +22,9 @@
 -   How to design a robust, scalable, easy to maintain microservices architecture
 -   When **NOT** to user microservices architecture
 
-> ## Topics Covered
+> ## Topics
 
--   [History of Microservices](./topics/01-history/01-history-of-microservices.md)
+-   [History of Microservices](topics/01-history/01-history-of-microservices.md)
 -   Problems with Monolith & SOA
 -   Microservices Architecture
 -   Problems solved by Microservices

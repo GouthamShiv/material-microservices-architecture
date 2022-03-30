@@ -1,13 +1,13 @@
-# `Microservices Architecture`
+> # <mark>`Microservices Architecture`</mark>
 
 # History of Microservices
 
 `Microservices are a result of problems with two architecture paradigms:`
 
--   **Monolith**
--   **SOA**
+1.  **Monolith**
+1.  **SOA**
 
-> ## Monolith Architecture
+## Monolith Architecture
 
 -   The original architecture, the ancestor of all the other architectures we have today.
 -   There are a lot of applications that are still in monolith architecture.
@@ -31,13 +31,40 @@
     -   Yet, this is called a monolith as the core of the application involved is a single process.
     -   Consider a similar monolith called **Purchasing App** that has to be integrated with **HR App**
 
-        -   Unfortunately, this is not possible because monoliths are often silos and do not expose ways to share data and functionality (Could be achieved, but not an easy process)
+        -   Unfortunately, this is not possible because monoliths are often silos and do not expose ways to share data and functionality (Could be achieved, but not an easy process)<br><br>
 
         ![Integrating Monoliths](./img/purchase-app-monolith.svg)
 
-> ## Monolith Architecture Pros
+-   ### Monolith Architecture Pros
 
--   Easier to design
-    -   No network-hops, messaging mechanisms / queues, no cross-process dividing
--   Performance
-    -   No network-hops, no serialization & de-serialization layers
+    -   Easier to design
+        -   No network-hops, messaging mechanisms / queues, no cross-process dividing
+    -   Performance
+        -   No network-hops, no serialization & de-serialization layers
+
+## SOA
+
+-   First coined in 1998
+-   Apps are considered services exposing functionality to the outside world
+    -   As monoliths are silos, with SOA it's the other way around
+-   Services expose metadata to declare their functionality
+-   Usually implemented using SOAP & WSDL
+    -   SOAP is a protocol for Web Services and it's basically a long and complicated XML document
+    -   WSDL is another XML document containing the metadata about the service like what parameter they expect and what data they return
+-   Usually implemented with ESB <small>[Enterprise Service Bus]</small>
+-   Example:
+
+    -   `SOA`:
+
+        ![SOA](img/hr-purchasing-SOA.svg)
+
+-   ### SOA Pros
+
+    -   Sharing data & functionality
+        -   Allowed sharing of data & functionality for the first time between systems
+            in an easy, standard and platform agnostic way
+    -   Polyglot between services
+        -   Helps avoid platform dependency
+        -   As communications between services are done using standard protocols like SOAP & WSDL
+            it is not actually important to know what platform the service is developed in.
+            And for the first time a Java service could communicate with a .NET service.
