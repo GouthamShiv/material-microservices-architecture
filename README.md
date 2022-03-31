@@ -9,4 +9,5 @@ Repo for capturing the learnings from this [Udemy course](https://www.udemy.com/
 > ## Quick Links
 
 -   [Intro](material/intro.md)
--   [History of Microservices](material/topics/01-history/01-history-of-microservices.md)
+-   [History of Microservices](material/topics/01/01-history-of-microservices.md)
+-   [Problems with Monolith & SOA](material/topics/02/02-problems-with-monolith-and-SOA.md)
