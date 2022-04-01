@@ -26,7 +26,7 @@
 
 -   [History of Microservices](topics/01/01-history-of-microservices.md)
 -   [Problems with Monolith & SOA](topics/02/02-problems-with-monolith-and-SOA.md)
--   Microservices Architecture
+-   [Microservices Architecture](topics/03/03-microservices-architecture.md)
 -   Problems solved by Microservices
 -   Designing Microservices Architecture
 -   Deploying Microservices
