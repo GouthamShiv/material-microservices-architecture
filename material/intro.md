@@ -27,6 +27,15 @@
 -   [History of Microservices](topics/01/01-history-of-microservices.md)
 -   [Problems with Monolith & SOA](topics/02/02-problems-with-monolith-and-SOA.md)
 -   [Microservices Architecture](topics/03/03-microservices-architecture.md)
+    1.  [Componentization via services](03A/03A-componentization.md)
+    1.  [Organized around business capabilities](03B/03B-business-capabilities.md)
+    1.  Products not projects
+    1.  Smart endpoints and dumb pipes
+    1.  Decentralized governance
+    1.  Decentralized data management
+    1.  Infrastructure automation
+    1.  Design for failure
+    1.  Evolutionary design
 -   Problems solved by Microservices
 -   Designing Microservices Architecture
 -   Deploying Microservices

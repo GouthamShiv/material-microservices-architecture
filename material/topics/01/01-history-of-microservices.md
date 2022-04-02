@@ -7,7 +7,9 @@
 1.  **Monolith**
 1.  **SOA**
 
-## Monolith Architecture
+---
+
+## `Monolith Architecture`
 
 -   The original architecture, the ancestor of all the other architectures we have today.
 -   There are a lot of applications that are still in monolith architecture.
@@ -20,9 +22,9 @@
     -   It's a standalone application, that does not share anything with other applications [data, functionality or API].
 -   Example:
 
-    -   `HR App`
+    -   `HR App`<br><br>
 
-        ![HR App Monolith](./img/hr-app-monolith.svg)
+        <div style="text-align: center"><img src="img/hr-app-monolith.svg" alt="HR App Monolith"></div><br>
 
     -   Here, the HR app is a single process, comprising of all the components of the application.
     -   Thus making the app a monolith without any distribution.
@@ -33,16 +35,18 @@
 
         -   Unfortunately, this is not possible because monoliths are often silos and do not expose ways to share data and functionality (Could be achieved, but not an easy process)<br><br>
 
-        ![Integrating Monoliths](./img/purchase-app-monolith.svg)
+        <div style="text-align: center"><img src="img/purchase-app-monolith.svg" alt="Integrating Monoliths"></div><br>
 
--   ### Monolith Architecture Pros
+> ### Monolith Architecture Pros
 
-    -   Easier to design
-        -   No network-hops, messaging mechanisms / queues, no cross-process dividing
-    -   Performance
-        -   No network-hops, no serialization & de-serialization layers
+-   `Easier to design`
+    -   No network-hops, messaging mechanisms / queues, no cross-process dividing
+-   `Performance`
+    -   No network-hops, no serialization & de-serialization layers
 
-## SOA
+---
+
+## `SOA`
 
 -   First coined in 1998
 -   Apps are considered services exposing functionality to the outside world
@@ -54,17 +58,17 @@
 -   Usually implemented with ESB <small>[Enterprise Service Bus]</small>
 -   Example:
 
-    -   `SOA`:
+    -   `SOA`:<br><br>
 
-        ![SOA](img/hr-purchasing-SOA.svg)
+        <div style="text-align: center"><img src="img/hr-purchasing-SOA.svg" alt="SOA"></div><br>
 
--   ### SOA Pros
+> ### SOA Pros
 
-    -   Sharing data & functionality
-        -   Allowed sharing of data & functionality for the first time between systems
-            in an easy, standard and platform agnostic way
-    -   Polyglot between services
-        -   Helps avoid platform dependency
-        -   As communications between services are done using standard protocols like SOAP & WSDL
-            it is not actually important to know what platform the service is developed in.
-            And for the first time a Java service could communicate with a .NET service.
+-   `Sharing data & functionality`
+    -   Allowed sharing of data & functionality for the first time between systems
+        in an easy, standard and platform agnostic way
+-   `Polyglot between services`
+    -   Helps avoid platform dependency
+    -   As communications between services are done using standard protocols like SOAP & WSDL
+        it is not actually important to know what platform the service is developed in.
+        And for the first time a Java service could communicate with a .NET service.

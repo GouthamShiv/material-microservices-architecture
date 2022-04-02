@@ -11,7 +11,7 @@
 ## Characteristics of Microservices
 
 1.  [Componentization via services](03A/03A-componentization.md)
-1.  Organized around business capabilities
+1.  [Organized around business capabilities](03B/03B-business-capabilities.md)
 1.  Products not projects
 1.  Smart endpoints and dumb pipes
 1.  Decentralized governance
