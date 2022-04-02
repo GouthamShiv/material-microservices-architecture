@@ -44,3 +44,7 @@
     -   If a component id a library, we will have to deploy the whole application again because the whole application runs in a single process.
 -   `Using services as a component forces us to define the components interface very well:`
     -   If we are going to expose a component to the outer world as a web API, then we have no choice other than design a much better web API.
+
+---
+
+[PREV](../03-microservices-architecture.md) <span style="margin-left:85vw"></span> [NEXT](./03A-componentization.md)

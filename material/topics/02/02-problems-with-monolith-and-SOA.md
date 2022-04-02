@@ -58,3 +58,7 @@
 -   For SOA to be effective, short development cycles were needed and allow for quick testing and deployment.
     -   But, no tooling existed to support this, and this took a lot of time now since testing SOA is more complicated than testing a monolith.
 -   No time saving was achieved, and took more time than monolith.
+
+---
+
+[PREV](../01/01-history-of-microservices.md) <span style="margin-left:85vw"></span> [NEXT](../03/03-microservices-architecture.md)

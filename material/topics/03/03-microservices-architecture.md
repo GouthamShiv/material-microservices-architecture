@@ -19,3 +19,7 @@
 1.  Infrastructure automation
 1.  Design for failure
 1.  Evolutionary design
+
+---
+
+[PREV](../02/02-problems-with-monolith-and-SOA.md) <span style="margin-left:85vw"></span> [NEXT](./03A/03A-componentization.md)

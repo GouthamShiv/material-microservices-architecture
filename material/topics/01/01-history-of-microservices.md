@@ -72,3 +72,7 @@
     -   As communications between services are done using standard protocols like SOAP & WSDL
         it is not actually important to know what platform the service is developed in.
         And for the first time a Java service could communicate with a .NET service.
+
+---
+
+[PREV](../../intro.md) <span style="margin-left:85vw"></span> [NEXT](../02/02-problems-with-monolith-and-SOA.md)
