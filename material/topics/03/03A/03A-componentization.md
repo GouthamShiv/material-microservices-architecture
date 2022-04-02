@@ -47,4 +47,4 @@
 
 ---
 
-[PREV](../03-microservices-architecture.md) <span style="margin-left:85vw"></span> [NEXT](./03A-componentization.md)
+[PREV](../03-microservices-architecture.md) <span style="margin-left:85vw"></span> [NEXT](../03B/03B-business-capabilities.md)
