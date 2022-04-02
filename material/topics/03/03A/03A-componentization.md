@@ -20,3 +20,21 @@
 -   The componentization, which is a process of separating the software into different components, thus making it modular
     is preferably done using services and not libraries.
 -   Libraries can and should be used inside the services, but in this case, they are part of the service and do not represent the whole componentization of the software, just the service itself.
+-   `Monolith with Libraries:`<br><br>
+    ![Monolith with libraries](img/hr-app-monolith.svg)
+    <br>
+-   `In microservices, componentization done via services:`
+    -   Every component is a service, it runs in it's own process and is accessible using one of the process mechanisms such as `Web API or RPC`.<br><br>
+        ![Componentization via services](img/componentization.svg) <br>
+-   Focusing on a specific service, we can see that it often has libraries, using libraries is a best practice and it is highly recommended.
+    -   The only thing to remember regarding microservices is that libraries are not used to make the whole system modular, but they help with the inner workings of the service itself.
+    -   The modularity of the system is expressed by the service and this is called componentization by service.<br><br>
+        ![Service](img/service.svg)<br>
+
+> **Motivation:**
+
+-   Using services makes our components independently deployable.
+    -   If we want to modify a single component, we deploy this single component.
+    -   If a component id a library, we will have to deploy the whole application again because the whole application runs in a single process.
+-   Using services as a component forces us to define the components interface very well.
+    -   If we are going to expose a component to the outer world as a web API, then we have no choice other than design a much better web API.
