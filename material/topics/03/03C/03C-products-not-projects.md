@@ -48,7 +48,13 @@
 
 > **Motivation:**
 
--   `Increase customer's satisfaction`
+-   `Increase customer's satisfaction:`
+    -   When the team thinks like the customer, the end result will be more like the customer's needs and will fit its needs.
+        This will definitely make the customer more satisfied with the product.
+-   `Change developers' mindset:`
+    -   Another effect is changing the developer's mindset by adopting the product, not the project attribute.
+        The developers change their mindset and become even better developers.
+    -   This will greatly help the team, not only the current service but with future ones as well.
 
 ---
 
