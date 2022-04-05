@@ -58,4 +58,4 @@
 
 ---
 
-[PREV](../03B/03B-business-capabilities.md) <span style="margin-left:85vw"></span> [NEXT](./03C-products-not-projects.md)
+[PREV](../03B/03B-business-capabilities.md) <span style="margin-left:85vw"></span> [NEXT](../03D/03D-smart-endpoints-and-dump-pipes.md)
