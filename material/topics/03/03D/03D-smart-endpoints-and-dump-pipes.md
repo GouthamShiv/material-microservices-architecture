@@ -61,4 +61,4 @@
 
 ---
 
-[PREV](../03C/03C-products-not-projects.md) <span style="margin-left:85vw"></span> [NEXT](./03D-smart-endpoints-and-dump-pipes.md)
+[PREV](../03C/03C-products-not-projects.md) <span style="margin-left:85vw"></span> [NEXT](../03E/03E-decentralized-governance.md)
