@@ -34,4 +34,4 @@
 
 ---
 
-[PREV](../03D/03D-smart-endpoints-and-dump-pipes.md) <span style="margin-left:85vw"></span> [NEXT](./03E-decentralized-governance.md)
+[PREV](../03D/03D-smart-endpoints-and-dump-pipes.md) <span style="margin-left:85vw"></span> [NEXT](../03F/03F-decentralized-data-management.md)
