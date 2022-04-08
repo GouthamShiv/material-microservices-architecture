@@ -33,7 +33,7 @@
     1.  [Smart endpoints and dumb pipes](./topics/03/03D/03D-smart-endpoints-and-dump-pipes.md)
     1.  [Decentralized governance](./topics/03/03E/03E-decentralized-governance.md)
     1.  [Decentralized data management](./topics/03/03F/03F-decentralized-data-management.md)
-    1.  Infrastructure automation
+    1.  [Infrastructure automation](./topics/03/03G/03G-infrastructure-automation.md)
     1.  Design for failure
     1.  Evolutionary design
 -   Problems solved by Microservices

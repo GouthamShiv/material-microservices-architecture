@@ -58,4 +58,4 @@
 
 ---
 
-[PREV](../03E/03E-decentralized-governance.md) <span style="margin-left:85vw"></span> [NEXT](./03F-decentralized-data-management.md)
+[PREV](../03E/03E-decentralized-governance.md) <span style="margin-left:85vw"></span> [NEXT](../03G/03G-infrastructure-automation.md)
