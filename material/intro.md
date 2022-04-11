@@ -34,8 +34,8 @@
     1.  [Decentralized governance](./topics/03/03E/03E-decentralized-governance.md)
     1.  [Decentralized data management](./topics/03/03F/03F-decentralized-data-management.md)
     1.  [Infrastructure automation](./topics/03/03G/03G-infrastructure-automation.md)
-    1.  Design for failure
-    1.  Evolutionary design
+    1.  [Design for failure](./topics/03/03H/03H-design-for-failure.md)
+    1.  [Evolutionary design](./topics/03/03I/03I-evolutionary-design.md)
 -   Problems solved by Microservices
 -   Designing Microservices Architecture
 -   Deploying Microservices

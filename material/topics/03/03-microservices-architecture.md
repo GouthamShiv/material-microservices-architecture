@@ -17,8 +17,8 @@
 1.  [Decentralized governance](03E/03E-decentralized-governance.md)
 1.  [Decentralized data management](03F/03F-decentralized-data-management.md)
 1.  [Infrastructure automation](03G/03G-infrastructure-automation.md)
-1.  Design for failure
-1.  Evolutionary design
+1.  [Design for failure](03H/03H-design-for-failure.md)
+1.  [Evolutionary design](03I/03I-evolutionary-design.md)
 
 ---
 
